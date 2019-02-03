@@ -1,0 +1,26 @@
+{
+    "data": {
+        "entries": [
+            {
+                "connection_class": "local_poll",
+                "data": {},
+                "domain": "upnp",
+                "entry_id": "bd5192a6528848588f6e58c4a420d706",
+                "source": "discovery",
+                "title": "UPnP/IGD",
+                "version": 1
+            },
+            {
+                "connection_class": "local_push",
+                "data": {},
+                "domain": "mqtt",
+                "entry_id": "f77da62a805541bcb0bf7b71a6ed09f5",
+                "source": "import",
+                "title": "configuration.yaml",
+                "version": 1
+            }
+        ]
+    },
+    "key": "core.config_entries",
+    "version": 1
+}

@@ -1,0 +1,26 @@
+{
+    "data": {
+        "entities": [
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "media_player.chrome",
+                "name": null,
+                "platform": "plex",
+                "unique_id": "wt410xr7fvfu61hzkl30unlg"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "media_player.chrome_2",
+                "name": null,
+                "platform": "plex",
+                "unique_id": "ndv6fmcwvkksloubz24r8loi"
+            }
+        ]
+    },
+    "key": "core.entity_registry",
+    "version": 1
+}

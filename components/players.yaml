@@ -1,0 +1,17 @@
+# @link https://www.plex.tv/
+# @link https://home-assistant.io/components/media_player.plex/
+
+- platform: plex
+  name: Plex
+  entity_namespace: plex
+  include_non_clients: true
+  scan_interval: 5
+  show_all_controls: true
+  use_custom_entity_ids: false
+  use_episode_art: true
+  IP_ADDRESS: !secret PLEX_IP
+  port: !secret PLEX_PORT
+  token: !secret PLEX_TOKEN
+  ssl: true
+  verify: false
+  

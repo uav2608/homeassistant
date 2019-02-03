@@ -1,0 +1,473 @@
+{
+    "data": [
+        {
+            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Living Room Power Strip 1"
+                },
+                "context": {
+                    "id": "d85eb4ce8d1849b7b6826ebc76de300b",
+                    "user_id": null
+                },
+                "entity_id": "switch.living_room_power_strip_1",
+                "last_changed": "2019-02-03T17:12:28.340719+00:00",
+                "last_updated": "2019-02-03T17:12:28.340719+00:00",
+                "state": "unavailable"
+            }
+        },
+        {
+            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Smart Socket 3"
+                },
+                "context": {
+                    "id": "7934d6c9e2754169b5e287b246b89a74",
+                    "user_id": null
+                },
+                "entity_id": "switch.smart_socket_3",
+                "last_changed": "2019-02-03T17:12:28.327421+00:00",
+                "last_updated": "2019-02-03T17:12:28.327421+00:00",
+                "state": "unavailable"
+            }
+        },
+        {
+            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "state": {
+                "attributes": {
+                    "brightness": 44,
+                    "color_temp": 150,
+                    "effect": "0",
+                    "effect_list": [
+                        "0",
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "friendly_name": "Office Light 3",
+                    "hs_color": [
+                        165.0,
+                        100.0
+                    ],
+                    "max_mireds": 500,
+                    "min_mireds": 153,
+                    "rgb_color": [
+                        0,
+                        255,
+                        191
+                    ],
+                    "supported_features": 23,
+                    "xy_color": [
+                        0.157,
+                        0.457
+                    ]
+                },
+                "context": {
+                    "id": "931a91a7975f49ea8b3be3edcf9541d7",
+                    "user_id": null
+                },
+                "entity_id": "light.office_light_3",
+                "last_changed": "2019-02-03T17:17:18.697511+00:00",
+                "last_updated": "2019-02-03T17:17:18.697511+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "state": {
+                "attributes": {
+                    "brightness": 44,
+                    "color_temp": 150,
+                    "effect": "0",
+                    "effect_list": [
+                        "0",
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "friendly_name": "Office Light 4",
+                    "hs_color": [
+                        165.0,
+                        100.0
+                    ],
+                    "max_mireds": 500,
+                    "min_mireds": 153,
+                    "rgb_color": [
+                        0,
+                        255,
+                        191
+                    ],
+                    "supported_features": 23,
+                    "xy_color": [
+                        0.157,
+                        0.457
+                    ]
+                },
+                "context": {
+                    "id": "d528914748c34c69874787c66781f566",
+                    "user_id": null
+                },
+                "entity_id": "light.office_light_4",
+                "last_changed": "2019-02-03T17:17:19.250725+00:00",
+                "last_updated": "2019-02-03T17:17:19.250725+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "state": {
+                "attributes": {
+                    "brightness": 81,
+                    "color_temp": 500,
+                    "effect": "none",
+                    "effect_list": [
+                        "0",
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "friendly_name": "Shahzo Light 4",
+                    "hs_color": [
+                        0,
+                        0
+                    ],
+                    "max_mireds": 500,
+                    "min_mireds": 153,
+                    "rgb_color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "supported_features": 23,
+                    "xy_color": [
+                        0.323,
+                        0.329
+                    ]
+                },
+                "context": {
+                    "id": "dd10693e8d8a4d19b2740a639e3996a2",
+                    "user_id": null
+                },
+                "entity_id": "light.shahzo_light_4",
+                "last_changed": "2019-02-03T17:16:29.629662+00:00",
+                "last_updated": "2019-02-03T17:16:29.629662+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "state": {
+                "attributes": {
+                    "brightness": 63,
+                    "color_temp": 500,
+                    "effect": "none",
+                    "effect_list": [
+                        "0",
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "friendly_name": "Shahzo Light 3",
+                    "hs_color": [
+                        0,
+                        0
+                    ],
+                    "max_mireds": 500,
+                    "min_mireds": 153,
+                    "rgb_color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "supported_features": 23,
+                    "xy_color": [
+                        0.323,
+                        0.329
+                    ]
+                },
+                "context": {
+                    "id": "4614a89d86df43fbb040b2dee25aaba9",
+                    "user_id": null
+                },
+                "entity_id": "light.shahzo_light_3",
+                "last_changed": "2019-02-03T17:16:40.819213+00:00",
+                "last_updated": "2019-02-03T17:16:40.819213+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "state": {
+                "attributes": {
+                    "brightness": 44,
+                    "color_temp": 150,
+                    "effect": "0",
+                    "effect_list": [
+                        "0",
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "friendly_name": "Office Light 1",
+                    "hs_color": [
+                        165.0,
+                        100.0
+                    ],
+                    "max_mireds": 500,
+                    "min_mireds": 153,
+                    "rgb_color": [
+                        0,
+                        255,
+                        191
+                    ],
+                    "supported_features": 23,
+                    "xy_color": [
+                        0.157,
+                        0.457
+                    ]
+                },
+                "context": {
+                    "id": "ff1e20a3e547496281b1238d6cba776e",
+                    "user_id": null
+                },
+                "entity_id": "light.office_light_1",
+                "last_changed": "2019-02-03T17:17:13.708662+00:00",
+                "last_updated": "2019-02-03T17:17:13.708662+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "state": {
+                "attributes": {
+                    "brightness": 44,
+                    "color_temp": 150,
+                    "effect": "0",
+                    "effect_list": [
+                        "0",
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "friendly_name": "Office Light 2",
+                    "hs_color": [
+                        165.0,
+                        100.0
+                    ],
+                    "max_mireds": 500,
+                    "min_mireds": 153,
+                    "rgb_color": [
+                        0,
+                        255,
+                        191
+                    ],
+                    "supported_features": 23,
+                    "xy_color": [
+                        0.157,
+                        0.457
+                    ]
+                },
+                "context": {
+                    "id": "65075ea8005748f1b219058f46f23574",
+                    "user_id": null
+                },
+                "entity_id": "light.office_light_2",
+                "last_changed": "2019-02-03T17:17:13.594529+00:00",
+                "last_updated": "2019-02-03T17:17:13.594529+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "state": {
+                "attributes": {
+                    "brightness": 62,
+                    "color_temp": 500,
+                    "effect": "none",
+                    "effect_list": [
+                        "0",
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "friendly_name": "Shahzo Light 2",
+                    "hs_color": [
+                        0,
+                        0
+                    ],
+                    "max_mireds": 500,
+                    "min_mireds": 153,
+                    "rgb_color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "supported_features": 23,
+                    "xy_color": [
+                        0.323,
+                        0.329
+                    ]
+                },
+                "context": {
+                    "id": "3b1e21ea3758446790c85a039c701f3d",
+                    "user_id": null
+                },
+                "entity_id": "light.shahzo_light_2",
+                "last_changed": "2019-02-03T17:16:29.552202+00:00",
+                "last_updated": "2019-02-03T17:16:29.552202+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "state": {
+                "attributes": {
+                    "brightness": 97,
+                    "color_temp": 500,
+                    "effect": "none",
+                    "effect_list": [
+                        "0",
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "friendly_name": "Shahzo Light 1",
+                    "hs_color": [
+                        0,
+                        0
+                    ],
+                    "max_mireds": 500,
+                    "min_mireds": 153,
+                    "rgb_color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "supported_features": 23,
+                    "xy_color": [
+                        0.323,
+                        0.329
+                    ]
+                },
+                "context": {
+                    "id": "fc793e91d2a34af080cf4679657df0e4",
+                    "user_id": null
+                },
+                "entity_id": "light.shahzo_light_1",
+                "last_changed": "2019-02-03T17:16:30.471426+00:00",
+                "last_updated": "2019-02-03T17:16:30.471426+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-02-01T20:06:50.952041+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Shazo Light 1",
+                    "supported_features": 23
+                },
+                "context": {
+                    "id": "780388ba008e46ddb72bf1659f1705c5",
+                    "user_id": null
+                },
+                "entity_id": "light.shazo_light_1",
+                "last_changed": "2019-02-01T20:00:22.777592+00:00",
+                "last_updated": "2019-02-01T20:00:22.777592+00:00",
+                "state": "unavailable"
+            }
+        },
+        {
+            "last_seen": "2019-02-02T12:49:28.705414+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Living room power strip 1"
+                },
+                "context": {
+                    "id": "8dc13b222906437a80f08cc9bb32319d",
+                    "user_id": null
+                },
+                "entity_id": "switch.living_room_power_strip_1_3",
+                "last_changed": "2019-02-02T12:35:37.051760+00:00",
+                "last_updated": "2019-02-02T12:35:37.051760+00:00",
+                "state": "unavailable"
+            }
+        },
+        {
+            "last_seen": "2019-02-01T11:06:23.861424+00:00",
+            "state": {
+                "attributes": {
+                    "assumed_state": true,
+                    "friendly_name": "MQTT Light",
+                    "supported_features": 0
+                },
+                "context": {
+                    "id": "bba1969981bf402cb3a09c2ffdffd43c",
+                    "user_id": "85677e437c584d14b4c951c41709fd0a"
+                },
+                "entity_id": "light.mqtt_light",
+                "last_changed": "2019-02-01T10:57:44.910235+00:00",
+                "last_updated": "2019-02-01T10:57:44.910235+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-02-02T12:49:28.705414+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Living room power strip 1"
+                },
+                "context": {
+                    "id": "4560278f8a2649829037b8b9d8906ac2",
+                    "user_id": null
+                },
+                "entity_id": "switch.living_room_power_strip_1_4",
+                "last_changed": "2019-02-02T12:35:36.863761+00:00",
+                "last_updated": "2019-02-02T12:35:36.863761+00:00",
+                "state": "unavailable"
+            }
+        },
+        {
+            "last_seen": "2019-02-02T12:49:28.705414+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Living room power strip 1"
+                },
+                "context": {
+                    "id": "c8b602d2f34f460a96d9ff6ff8de65d1",
+                    "user_id": null
+                },
+                "entity_id": "switch.living_room_power_strip_1_5",
+                "last_changed": "2019-02-02T12:35:37.070595+00:00",
+                "last_updated": "2019-02-02T12:35:37.070595+00:00",
+                "state": "unavailable"
+            }
+        },
+        {
+            "last_seen": "2019-02-02T12:49:28.705414+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Living room power strip 1"
+                },
+                "context": {
+                    "id": "4c9a418db6f34d06b9f12ce4dfb556ce",
+                    "user_id": null
+                },
+                "entity_id": "switch.living_room_power_strip_1_2",
+                "last_changed": "2019-02-02T12:35:37.028742+00:00",
+                "last_updated": "2019-02-02T12:35:37.028742+00:00",
+                "state": "unavailable"
+            }
+        }
+    ],
+    "key": "core.restore_state",
+    "version": 1
+}
