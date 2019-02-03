@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "last_seen": "2019-02-03T20:18:02.618308+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Living Room Power Strip 1"
@@ -17,7 +17,7 @@
             }
         },
         {
-            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "last_seen": "2019-02-03T20:18:02.618308+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Smart Socket 3"
@@ -33,7 +33,7 @@
             }
         },
         {
-            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "last_seen": "2019-02-03T20:18:02.618308+00:00",
             "state": {
                 "attributes": {
                     "brightness": 44,
@@ -75,7 +75,7 @@
             }
         },
         {
-            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "last_seen": "2019-02-03T20:18:02.618308+00:00",
             "state": {
                 "attributes": {
                     "brightness": 44,
@@ -117,91 +117,41 @@
             }
         },
         {
-            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "last_seen": "2019-02-03T20:18:02.618308+00:00",
             "state": {
                 "attributes": {
-                    "brightness": 81,
-                    "color_temp": 500,
-                    "effect": "none",
-                    "effect_list": [
-                        "0",
-                        "1",
-                        "2",
-                        "3",
-                        "4"
-                    ],
                     "friendly_name": "Shahzo Light 4",
-                    "hs_color": [
-                        0,
-                        0
-                    ],
-                    "max_mireds": 500,
-                    "min_mireds": 153,
-                    "rgb_color": [
-                        255,
-                        255,
-                        255
-                    ],
-                    "supported_features": 23,
-                    "xy_color": [
-                        0.323,
-                        0.329
-                    ]
+                    "supported_features": 23
                 },
                 "context": {
-                    "id": "dd10693e8d8a4d19b2740a639e3996a2",
+                    "id": "85f3eff6657a4bfbba4e7d60a81db20e",
                     "user_id": null
                 },
                 "entity_id": "light.shahzo_light_4",
-                "last_changed": "2019-02-03T17:16:29.629662+00:00",
-                "last_updated": "2019-02-03T17:16:29.629662+00:00",
-                "state": "on"
+                "last_changed": "2019-02-03T19:48:51.463898+00:00",
+                "last_updated": "2019-02-03T19:48:51.463898+00:00",
+                "state": "unavailable"
             }
         },
         {
-            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "last_seen": "2019-02-03T20:18:02.618308+00:00",
             "state": {
                 "attributes": {
-                    "brightness": 63,
-                    "color_temp": 500,
-                    "effect": "none",
-                    "effect_list": [
-                        "0",
-                        "1",
-                        "2",
-                        "3",
-                        "4"
-                    ],
                     "friendly_name": "Shahzo Light 3",
-                    "hs_color": [
-                        0,
-                        0
-                    ],
-                    "max_mireds": 500,
-                    "min_mireds": 153,
-                    "rgb_color": [
-                        255,
-                        255,
-                        255
-                    ],
-                    "supported_features": 23,
-                    "xy_color": [
-                        0.323,
-                        0.329
-                    ]
+                    "supported_features": 23
                 },
                 "context": {
-                    "id": "4614a89d86df43fbb040b2dee25aaba9",
+                    "id": "f57c5bd5fed04b5fa5f43eab123f285b",
                     "user_id": null
                 },
                 "entity_id": "light.shahzo_light_3",
-                "last_changed": "2019-02-03T17:16:40.819213+00:00",
-                "last_updated": "2019-02-03T17:16:40.819213+00:00",
-                "state": "on"
+                "last_changed": "2019-02-03T19:48:56.586935+00:00",
+                "last_updated": "2019-02-03T19:48:56.586935+00:00",
+                "state": "unavailable"
             }
         },
         {
-            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "last_seen": "2019-02-03T20:18:02.618308+00:00",
             "state": {
                 "attributes": {
                     "brightness": 44,
@@ -233,17 +183,17 @@
                     ]
                 },
                 "context": {
-                    "id": "ff1e20a3e547496281b1238d6cba776e",
+                    "id": "bd786c1f0dcf486bbb8f2b45fb0f6643",
                     "user_id": null
                 },
                 "entity_id": "light.office_light_1",
-                "last_changed": "2019-02-03T17:17:13.708662+00:00",
-                "last_updated": "2019-02-03T17:17:13.708662+00:00",
+                "last_changed": "2019-02-03T19:12:22.730811+00:00",
+                "last_updated": "2019-02-03T19:12:22.730811+00:00",
                 "state": "on"
             }
         },
         {
-            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "last_seen": "2019-02-03T20:18:02.618308+00:00",
             "state": {
                 "attributes": {
                     "brightness": 44,
@@ -285,87 +235,37 @@
             }
         },
         {
-            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "last_seen": "2019-02-03T20:18:02.618308+00:00",
             "state": {
                 "attributes": {
-                    "brightness": 62,
-                    "color_temp": 500,
-                    "effect": "none",
-                    "effect_list": [
-                        "0",
-                        "1",
-                        "2",
-                        "3",
-                        "4"
-                    ],
                     "friendly_name": "Shahzo Light 2",
-                    "hs_color": [
-                        0,
-                        0
-                    ],
-                    "max_mireds": 500,
-                    "min_mireds": 153,
-                    "rgb_color": [
-                        255,
-                        255,
-                        255
-                    ],
-                    "supported_features": 23,
-                    "xy_color": [
-                        0.323,
-                        0.329
-                    ]
+                    "supported_features": 23
                 },
                 "context": {
-                    "id": "3b1e21ea3758446790c85a039c701f3d",
+                    "id": "ef9a975a30a642cebb9e527b2175673a",
                     "user_id": null
                 },
                 "entity_id": "light.shahzo_light_2",
-                "last_changed": "2019-02-03T17:16:29.552202+00:00",
-                "last_updated": "2019-02-03T17:16:29.552202+00:00",
-                "state": "on"
+                "last_changed": "2019-02-03T19:48:52.571098+00:00",
+                "last_updated": "2019-02-03T19:48:52.571098+00:00",
+                "state": "unavailable"
             }
         },
         {
-            "last_seen": "2019-02-03T18:12:52.009194+00:00",
+            "last_seen": "2019-02-03T20:18:02.618308+00:00",
             "state": {
                 "attributes": {
-                    "brightness": 97,
-                    "color_temp": 500,
-                    "effect": "none",
-                    "effect_list": [
-                        "0",
-                        "1",
-                        "2",
-                        "3",
-                        "4"
-                    ],
                     "friendly_name": "Shahzo Light 1",
-                    "hs_color": [
-                        0,
-                        0
-                    ],
-                    "max_mireds": 500,
-                    "min_mireds": 153,
-                    "rgb_color": [
-                        255,
-                        255,
-                        255
-                    ],
-                    "supported_features": 23,
-                    "xy_color": [
-                        0.323,
-                        0.329
-                    ]
+                    "supported_features": 23
                 },
                 "context": {
-                    "id": "fc793e91d2a34af080cf4679657df0e4",
+                    "id": "ce6d0c556d014a8b856cdfa604fadf16",
                     "user_id": null
                 },
                 "entity_id": "light.shahzo_light_1",
-                "last_changed": "2019-02-03T17:16:30.471426+00:00",
-                "last_updated": "2019-02-03T17:16:30.471426+00:00",
-                "state": "on"
+                "last_changed": "2019-02-03T19:48:57.592999+00:00",
+                "last_updated": "2019-02-03T19:48:57.592999+00:00",
+                "state": "unavailable"
             }
         },
         {
